@@ -1,0 +1,23 @@
+PHY00001,Vat ly dai cuong 1,Nguyen Van A,NXB A,2019,Giao trinh,90000,10
+PHY00002,Vat ly dai cuong 2,Nguyen Van A,NXB A,2019,Giao trinh,90000,7
+CHE00001,Hoa hoc dai cuong 1,Nguyen Van B,NXB A,2019,Giao trinh,89000,8
+CHE00002,Hoa hoc dai cuong 2,Nguyen Van B,NXB A,2019,Giao trinh,89000,3
+BIO00001,Sinh dai cuong 1,Vu Thi C,NXB A,2019,Giao trinh,90000,7
+BIO00002,Sinh dai cuong 2,Vu Thi C,NXB A,2019,Giao trinh,90000,4
+NLT00001,Lap trinh C co ban,Vo Tan A,NXB C,2016,Tai lieu TK,70000,6
+NLT00011,Lap trinh C++ co ban,Vo Tan A,NXB C,2016,Tai lieu TK,70000,9
+NLT00002,Lap trinh Java co ban,Vo Tan A,NXB C,2017,Tai lieu TK,75000,2
+NLT00003,Lap trinh JS co ban,Vo Tan A,NXB C,2017,Tai lieu TK,75000,11
+NLT00004,Lap trinh Python co ban,Vo Tan A,NXB C,2019,Tai lieu TK,85000,1
+KTC00001,Triet hoc Mac Lenin,Nguyen Van D,NXB B,2019,Giao trinh,80000,12
+KTC00002,KT - CT Mac Lenin,Nguyen Van D,NXB B,2019,Giao trinh,80000,11
+KTC00003,Tu tuong Ho Chi Minh,Nguyen Van D,NXB B,2019,Giao trinh,80000,14
+MTH00001,Giai tich - VTP B1,Nguyen Thi D,NXB A,2017,Tai lieu TK,75000,7
+MTH00002,Giai tich - VTP B2,Nguyen Thi D,NXB A,2017,Tai lieu TK,75000,5
+MTH00002,Dai so dai cuong,Le Thi D,NXB A,2017,Giao trinh,85000,5
+MTH00002,Dai so tuyen tinh,Le Thi D,NXB A,2017,Giao trinh,85000,1
+CSC00001,Nhap mon lap trinh,Tran Van E,NXB C,2018,Tai lieu TK,95000,6
+CSC00002,Ki thuat lap trinh,Tran Van E,NXB C,2018,Tai lieu TK,95000,8
+CSC00003,Cau truc DL va GT,Tran Van E,NXB C,2018,Tai lieu TK,95000,10
+CSC00004,Lap trinh huong DT,Tran Van E,NXB C,2018,Tai lieu TK,95000,3
+,,,,,,,22
